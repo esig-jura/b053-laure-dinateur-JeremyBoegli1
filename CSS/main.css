@@ -161,3 +161,50 @@ footer nav ul img:hover {
     max-width: 200px;
     border-radius: 50%;
 }
+/**********************
+    PAGE CONTACT
+ **********************/
+.page-contact .liste-puce li:nth-child(1) {
+    font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+    font-size: 100%;
+    color: black;
+    display: list-item;
+    list-style-type: none;
+    background-image: url(/img/phone.png);
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+    padding-left: 15px;
+}
+.page-contact .liste-puce li:nth-child(2) {
+    font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+    font-size: 100%;
+    color: black;
+    display: list-item;
+    list-style-type: none;
+    background-image: url(/img/mail.png);
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+    padding-left: 15px;
+}
+.page-contact .liste-puce li:nth-child(3) {
+    font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+    font-size: 100%;
+    color: black;
+    display: list-item;
+    list-style-type: none;
+    background-image: url(/img/twitter.png);
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+    padding-left: 15px;
+}
+.page-contact .liste-puce li:nth-child(4) {
+    font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+    font-size: 100%;
+    color: black;
+    display: list-item;
+    list-style-type: none;
+    background-image: url(/img/facebook.png);
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+    padding-left: 15px;
+}
