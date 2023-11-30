@@ -146,3 +146,18 @@ footer nav ul img {
 footer nav ul img:hover {
     filter: grayscale(0);
 }
+/**********************
+    PAGE QUI SUIS-JE
+ **********************/
+.page-infos h1 {
+    text-align: center;
+}
+
+.page-infos .photo {
+    text-align: center;
+}
+
+.page-infos img {
+    max-width: 200px;
+    border-radius: 50%;
+}
